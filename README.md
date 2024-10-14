@@ -1,4 +1,4 @@
-# CAPM-portfolio-management
+# Portfolio Management using CAPM 
 
 ## 👋 Overview
 
