@@ -1,13 +1,13 @@
 # Portfolio Management using CAPM 
 
-## 👋 Overview
+## Overview
 
 Utilizing the Capital Asset Pricing Model (CAPM) to analyze multiple stocks within the S&P 500, aiming to optimize portfolio management by assessing the expected returns based on systematic risk and market performance.
 
-## 💵 Introduction to CAPM (Capital Asset Pricing Model)
+## Introduction to CAPM (Capital Asset Pricing Model)
 The Capital Asset Pricing Model (CAPM) is a financial model that establishes a relationship between the expected return of an investment and its risk, providing a method to determine an appropriate required rate of return for an asset. Developed by William Sharpe in the 1960s, CAPM helps investors assess the risk of a particular investment compared to the overall market.
 
-### 💡Key Components:
+### Key Components:
 
 1. Risk-Free Rate (Rf): The return expected from an investment with zero risk, typically represented by government bonds.
 2. Market Return (Rm): The expected return of the market as a whole, usually represented by a market index like the S&P 500.
@@ -31,7 +31,7 @@ Where:
 
 In summary, CAPM is a foundational concept in finance that helps investors understand how to quantify risk and return, guiding investment decisions and portfolio construction.
 
-## 📖 Data Used
+## Data Used
 
 Stock prices for companies: AAPL, BA, T, MGM, AMZN, IBM, TSLA, GOOG, and S&P 500.
 Data range: 2012-01-12 to present.
@@ -43,7 +43,7 @@ Beta Calculation: Determines the stock's volatility relative to the market (S&P 
 CAPM Model: Estimates expected returns using the Capital Asset Pricing Model.
 
 
-## 📈 Expected Returns (CAPM):
+## Expected Returns (CAPM):
 
 AAPL: 13.757%
 
